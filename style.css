@@ -1,3 +1,11 @@
 body{
     background-color: lightblue;
 }
+
+.img-cabeçalho{
+height: 370px;
+}
+
+.cabeçalho{
+    display: flex;
+}
