@@ -8,4 +8,12 @@ height: 370px;
 
 .cabeçalho{
     display: flex;
+    justify-content: space-between;
+}    
+
+.item-cabeçalho{
+    display: inline-block;
+    margin: 35px;
+    font-size: 25px;
+
 }
