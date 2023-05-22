@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color: #add8e6;
 }
 
 .img-cabeçalho{
@@ -16,4 +16,12 @@ height: 370px;
     margin: 35px;
     font-size: 25px;
 
+}
+
+.principal{
+    background-image: linear-gradient(#bedce5, #b9d3db);
+}
+
+.imagem-principal{
+    width: 300px;
 }
