@@ -20,8 +20,17 @@ height: 370px;
 
 .principal{
     background-image: linear-gradient(#bedce5, #b9d3db);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .imagem-principal{
     width: 300px;
+}
+.div-principal{
+    width: 35%;
+}
+.paragrafo{
+    text-align: center;
 }
