@@ -30,7 +30,12 @@ height: 370px;
 }
 .div-principal{
     width: 35%;
+    margin: 100px;
 }
 .paragrafo{
     text-align: center;
 }
+h1{
+    font-family: 'Diphylleia', serif;
+}
+
